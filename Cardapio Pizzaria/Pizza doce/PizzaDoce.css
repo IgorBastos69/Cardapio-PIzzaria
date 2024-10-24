@@ -1,0 +1,13 @@
+@import url("/Pizza doce/PizzaDoce.css");
+
+:root{
+    --cinza:#262627;
+    --Caveat: 'Caveat';
+    --poppins: 'Poppins';
+    --Fredericka: 'Fredericka the Great';
+}
+
+.hr{
+    padding: 0;
+    margin: 0em 0.5em;
+}

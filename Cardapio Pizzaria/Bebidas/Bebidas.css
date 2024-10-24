@@ -1,0 +1,17 @@
+@import url("/Bebidas/ListaBebidas.css");
+
+:root{
+    --cinza:#262627;
+    --Caveat: 'Caveat';
+    --poppins: 'Poppins';
+    --Fredericka: 'Fredericka the Great';
+}
+
+.body{
+    background-image: url("/assets/fundoPizzaria.png");   
+}
+
+.hr{
+    padding: 0;
+    margin: 0em 0.5em;
+}

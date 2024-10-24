@@ -1,0 +1,20 @@
+@import url("/PaginaInicial/header.css");
+@import url("/PaginaInicial/lista.css");
+@import url("/PaginaInicial/footer.css");
+
+:root{
+    --cinza:#262627;
+    --Caveat: 'Caveat';
+    --poppins: 'Poppins';
+    --Fredericka: 'Fredericka the Great';
+}
+
+.body{
+    background-image: url("/assets/fundoPizzaria.png");   
+}
+
+.hr__rodape{
+    padding: 0;
+    margin: 0em 1em;
+    border-color: var(--laranja);
+}

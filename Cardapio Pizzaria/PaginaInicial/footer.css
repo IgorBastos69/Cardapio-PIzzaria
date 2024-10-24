@@ -1,0 +1,54 @@
+.rodape{
+    display: grid;
+    background-color: var(--cinza);
+    font-family: var(--poppins);
+}
+
+.rodape2{
+    background-color: #18181a;
+    color: gray;
+}
+
+.rodape__texto{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.rodape__image{
+    width: 2em;
+    padding: 1em 1.5em 1em 1.5em;
+}
+
+.rodape__paragrafo{
+    padding: 1em;
+}
+
+.rodape__paragrafo__lista{
+    list-style: none;
+}
+
+.rodape__paragrafo__destaque{
+    color: #d17c2e;
+}
+
+.rodape__logo__container{
+    display: flex;
+    justify-content: center;
+}
+
+.rodape__logo{
+    width: 12em;
+    padding: 2em 0;
+}
+
+.lista__rodape__links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hr__rodape{
+    color: #d17c2e;
+}

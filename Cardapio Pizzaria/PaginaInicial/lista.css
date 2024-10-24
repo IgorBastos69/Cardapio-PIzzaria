@@ -1,0 +1,56 @@
+.combo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5em 0;
+}
+
+.combo__imagem{
+    width: 80px;
+    padding: 0 0.8em 0 0;
+}
+
+.combo__imagem2{
+    width: 80px;
+    padding: 0 0 0 0.8em;
+}
+
+.combo__titulo{
+    display: flex;
+    text-align: center;
+    color: #F0F4EF;
+    font-family: var(--poppins);
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.combo__container{
+    display: flex;   
+}
+
+.lista__pizza__item{
+    padding: 1em;
+}
+
+.lista__pizza__titulo, .lista__pizza__preço{
+    display: inline;
+}
+
+.lista__pizza__titulo{
+    font-family: var(--Fredericka);
+    font-size: 25px;
+    font-weight: 500;
+    color: #EEF8FF;
+}
+
+.lista__pizza__preço{
+    color: #d17c2e;
+}
+
+.lista__pizza__descricao{
+    font-size: 16px;
+}
+
+.lista__pizza{
+    padding: 0 0 2em 0;
+}
